@@ -1,0 +1,15 @@
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\bin\Debug\net6.0\task13_HW.exe
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\bin\Debug\net6.0\task13_HW.deps.json
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\bin\Debug\net6.0\task13_HW.runtimeconfig.json
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\bin\Debug\net6.0\task13_HW.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\bin\Debug\net6.0\task13_HW.pdb
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.csproj.AssemblyReference.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.AssemblyInfoInputs.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.AssemblyInfo.cs
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.csproj.CoreCompileInputs.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\refint\task13_HW.dll
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.pdb
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\task13_HW.genruntimeconfig.cache
+C:\Users\ivank\OneDrive\Рабочий стол\GeekBrains\Семинары\C#\Seminars\seminar2\task13_HW\obj\Debug\net6.0\ref\task13_HW.dll
